@@ -8,6 +8,10 @@ TagManager:
   - CreditsCanvas
   - GameOverCanvas
   - HUDCanvas
+  - Paddle
+  - Ball
+  - Wall
+  - Goal
   layers:
   - Default
   - TransparentFX
